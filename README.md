@@ -11,7 +11,7 @@ I'm a Mechanical Engineering student at Oda Bultum University, Ethiopia, with a 
 
 I believe that technology, creativity, and continuous learning can help solve real-world problems and create meaningful opportunities for people.
 
----
+---.
 
 👨‍💻 About Me
 
