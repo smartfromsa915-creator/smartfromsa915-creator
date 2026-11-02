@@ -1,5 +1,114 @@
 ## Hi there 👋
+👋 Hi, I'm Fromsa Mohammed Ali
 
+Aspiring Software Engineer | AI Enthusiast | Technology & Innovation
+
+Welcome to my GitHub profile!
+
+I'm a Mechanical Engineering student at Oda Bultum University, Ethiopia, passionate about programming, software development, Artificial Intelligence, and technology-driven innovation.
+
+I believe that technology, creativity, and continuous learning can solve real-world problems and create meaningful opportunities.
+
+---
+
+👨‍💻 About Me
+
+- 🎓 Mechanical Engineering student at Oda Bultum University.
+- 💻 Passionate about software development and programming.
+- 🤖 Interested in Artificial Intelligence and intelligent systems.
+- 🌱 Continuously learning and improving my technical skills.
+- 🧠 Enjoy solving problems and building practical solutions.
+- 🚀 Developing the vision for Murti-Guto Smart World Company, a future technology venture.
+- 🌍 Aspiring to contribute to technological development in Ethiopia and Africa.
+- 📚 Believe in discipline, creativity, lifelong learning, and personal growth.
+
+---
+
+🛠️ Technologies & Skills
+
+Programming Languages
+
+- Python
+- C++
+- JavaScript
+
+Web Development
+
+- HTML
+- CSS
+- JavaScript
+
+Tools & Platforms
+
+- Git
+- GitHub
+- Termux
+- Android development tools
+
+---
+
+📚 Currently Learning
+
+- Software Engineering fundamentals
+- Web development and responsive design
+- Python and C++ programming
+- Artificial Intelligence fundamentals
+- Git and GitHub workflows
+- Building practical applications
+
+---
+
+🚀 Projects & Experiments
+
+I use GitHub to document my learning journey, experiment with new technologies, and develop projects.
+
+- 🌐 Web development projects
+- 🐍 Python applications and exercises
+- 💻 C++ practice projects
+- 🤖 AI-related experiments
+- 📱 Mobile-friendly web applications
+- 💡 Innovative digital solutions
+
+---
+
+🌍 My Vision
+
+My long-term goal is to become a skilled software engineer and AI developer who creates useful, accessible, and innovative technology.
+
+I'm also developing the vision for Murti-Guto Smart World Company, a future technology venture focused on software, AI, and digital solutions.
+
+Current status: Idea and development stage.
+
+---
+
+🎯 My Goals
+
+- Become a highly skilled software engineer.
+- Build real-world applications.
+- Develop expertise in AI and intelligent systems.
+- Create innovative digital products.
+- Collaborate with developers worldwide.
+- Contribute to Ethiopia's and Africa's digital future.
+
+---
+
+🤝 Let's Connect
+
+- GitHub: "@smartfromsa915-creator" (https://github.com/smartfromsa915-creator)
+- LinkedIn: "Fromsa Mohammed Ali" (https://www.linkedin.com/in/smart-fromsa-1762603b9)
+- Location: Ethiopia
+
+---
+
+💭 Personal Motto
+
+«The mind in motion.»
+
+Learning today. Building tomorrow. Innovating for the future.
+
+---
+
+⭐ Thanks for visiting my profile!
 <!--
 **👋 Hi, I'm Fromsa Mohammed Ali
 
